@@ -1554,6 +1554,7 @@ body.ie ._ibg img {
 }
 
 .table__word-pdf {
+  cursor: pointer;
   width: auto;
   height: 35px;
 }
